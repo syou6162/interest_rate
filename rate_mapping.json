@@ -1,0 +1,8 @@
+{
+    "rate": {
+	"properties": {
+	    "date": { "type": "date", "format": "date"},
+            "year" : { "type": "string", "index": "not_analyzed" }
+	}
+    }
+}
